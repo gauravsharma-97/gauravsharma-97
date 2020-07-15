@@ -3,8 +3,10 @@
 ### Hi there I'm Gaurav :wave:
 
 <!-- [![gauravsharma.com](https://img.shields.io/static/v1?label=gauravsharma.com&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.gauravsharma.com/) -->
-[![Instagram](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gs-11/)
-[![GMAIL](https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
+
+Reach me on 
+[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gs-11/)
+[![Gmail](https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
   
   
  👨‍💻  Final Year Undergraduate  
