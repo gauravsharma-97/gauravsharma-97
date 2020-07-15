@@ -12,9 +12,7 @@
  
  <!-- 🚧 **Current Project:**  -->
  
-#### Reach me on 
-[![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gs-11/)
-[![Gmail](https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
+#### Reach me on [![Linkedin](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gs-11/) [![Gmail](https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
   
 
 <!-- ⭐️ From [Gaurav Sharma](https://github.com/gauravsharma-97) -->
