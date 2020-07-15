@@ -1,16 +1,16 @@
-### Hi there 👋
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=gauravsharma-97&show_icons=true">
 
-<!--
-**gauravsharma-97/gauravsharma-97** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there I'm Gaurav :wave:
 
-Here are some ideas to get you started:
+<!-- [![gauravsharma.com](https://img.shields.io/static/v1?label=gauravsharma.com&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.gauravsharma.com/) -->
+[![Instagram](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gs-11/)
+[![GMAIL](https://img.shields.io/static/v1?label=Contact&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
+  
+  
+ 👨‍💻  Final Year Undergraduate  
+ 👨‍🎓  Majoring in IT  
+ 👨‍:heart:  Interest in Machine Learning, Articial Intelligence, and Statistics
+ 
+ <!-- 🚧 **Current Project:**  -->
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- ⭐️ From [Gaurav Sharma](https://github.com/gauravsharma-97) -->
