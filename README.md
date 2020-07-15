@@ -4,7 +4,7 @@
 
 <!-- [![gauravsharma.com](https://img.shields.io/static/v1?label=gauravsharma.com&message=%20&color=yellow&logo=&style=flat-square&logoColor=white)](https://www.gauravsharma.com/) -->
 [![Instagram](https://img.shields.io/static/v1?label=LinkedIn&message=%20&color=orange&logo=Linkedin&style=flat-square&logoColor=white)](https://www.linkedin.com/in/gs-11/)
-[![GMAIL](https://img.shields.io/static/v1?label=Contact&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
+[![GMAIL](https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
   
   
  👨‍💻  Final Year Undergraduate  
