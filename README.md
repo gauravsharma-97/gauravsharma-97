@@ -9,8 +9,8 @@ Reach me on
 [![Gmail](https://img.shields.io/static/v1?label=Gmail&message=%20&color=red&logo=gmail&style=flat-square&logoColor=white)](mailto:gauravsharmaa97@gmail.com)
   
   
- 👨‍💻  Final Year Undergraduate  
- 👨‍🎓  Majoring in IT  
+ 👨‍🎓  Final Year Undergraduate  
+ 👨‍💻  Majoring in IT  
  👨‍:heart:  Interest in Machine Learning, Articial Intelligence, and Statistics
  
  <!-- 🚧 **Current Project:**  -->
