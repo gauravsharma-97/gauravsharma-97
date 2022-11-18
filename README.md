@@ -6,9 +6,9 @@
 
 #### About me:
   
-* 👨‍🎓  Final Year Undergraduate  
-* 👨‍💻  Majoring in IT  
-* 👨‍:heart:  Interest in Machine Learning, Articial Intelligence, and Statistics
+* 👨‍🎓  Majored in IT.
+* 👨‍💻  Working at Optum as a Software Engineer.
+<!-- * 👨‍:heart:  Interest in Machine Learning, Articial Intelligence, and Statistics -->
  
  <!-- 🚧 **Current Project:**  -->
  
